@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 3: Product Owner + AI Team — Spec-Driven Development with agent-skills"
+title: "Solana Lesson 3: Product Owner + AI Team — Spec-Driven Development with agent-skills"
 type: lesson
 difficulty: intermediate
-tags: [solana, offline, product-owner, agent-skills, spec, plan, prd, ai-team, personas, build]
+tags: [solana, product-owner, agent-skills, spec, plan, prd, ai-team, personas, build]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 3
 ---
 
-# Solana Off-line Lesson 3: Product Owner + AI Team — Spec-Driven Development with agent-skills
+# Solana Lesson 3: Product Owner + AI Team — Spec-Driven Development with agent-skills
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~3 hours
 
 ## How This Lesson Works

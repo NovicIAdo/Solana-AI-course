@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 2: Tokens, Context, All MCP Servers & Ecosystem Research"
+title: "Solana Lesson 2: Tokens, Context, All MCP Servers & Ecosystem Research"
 type: lesson
 difficulty: beginner
-tags: [solana, offline, tokens, context, research, colosseum, grants, solana-mobile, mcp, skills]
+tags: [solana, tokens, context, research, colosseum, grants, solana-mobile, mcp, skills]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 2
 ---
 
-# Solana Off-line Lesson 2: Tokens, Context, All MCP Servers & Ecosystem Research
+# Solana Lesson 2: Tokens, Context, All MCP Servers & Ecosystem Research
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~2.5 hours
 
 ## How This Lesson Works

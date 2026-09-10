@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 7: Deployment & APK — Your App Leaves the Laptop"
+title: "Solana Lesson 7: Deployment & APK — Your App Leaves the Laptop"
 type: lesson
 difficulty: intermediate
-tags: [solana, offline, deployment, apk, eas-build, android, vercel, flyio, production]
+tags: [solana, deployment, apk, eas-build, android, vercel, flyio, production]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 7
 ---
 
-# Solana Off-line Lesson 7: Deployment & APK — Your App Leaves the Laptop
+# Solana Lesson 7: Deployment & APK — Your App Leaves the Laptop
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~2.5 hours (including a supervised build sprint while the APK compiles)
 
 ## How This Lesson Works

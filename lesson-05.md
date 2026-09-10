@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 5: Database — SupaBase for Your Product"
+title: "Solana Lesson 5: Database — SupaBase for Your Product"
 type: lesson
 difficulty: intermediate
-tags: [solana, offline, database, supabase, mcp, backend, rls, crud]
+tags: [solana, database, supabase, mcp, backend, rls, crud]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 5
 ---
 
-# Solana Off-line Lesson 5: Database — SupaBase for Your Product
+# Solana Lesson 5: Database — SupaBase for Your Product
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~2 hours
 
 ## How This Lesson Works

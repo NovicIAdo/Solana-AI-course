@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 8: Hackathon Submission — Pitch, Demo, GitHub, Validation"
+title: "Solana Lesson 8: Hackathon Submission — Pitch, Demo, GitHub, Validation"
 type: lesson
 difficulty: advanced
-tags: [solana, offline, hackathon, colosseum, pitch, demo, github, validation, build-in-public]
+tags: [solana, hackathon, colosseum, pitch, demo, github, validation, build-in-public]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 8
 ---
 
-# Solana Off-line Lesson 8: Hackathon Submission — Pitch, Demo, GitHub, Validation
+# Solana Lesson 8: Hackathon Submission — Pitch, Demo, GitHub, Validation
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~2.5 hours
 
 ## How This Lesson Works

@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 6: Solana Mobile — Android App, Mobile Wallet Adapter & Seed Vault"
+title: "Solana Lesson 6: Solana Mobile — Android App, Mobile Wallet Adapter & Seed Vault"
 type: lesson
 difficulty: intermediate
-tags: [solana, offline, mobile, react-native, expo, mwa, seed-vault, sms, android, grants]
+tags: [solana, mobile, react-native, expo, mwa, seed-vault, sms, android, grants]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 6
 ---
 
-# Solana Off-line Lesson 6: Solana Mobile — Android App, Mobile Wallet Adapter & Seed Vault
+# Solana Lesson 6: Solana Mobile — Android App, Mobile Wallet Adapter & Seed Vault
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~3 hours (a cloud build runs in the middle — plan the schedule around it)
 
 ## How This Lesson Works

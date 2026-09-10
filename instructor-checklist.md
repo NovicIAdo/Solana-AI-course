@@ -1,13 +1,13 @@
 ---
-title: "Solana Off-line Course — Instructor Checklist"
+title: "Solana Course — Instructor Checklist"
 type: guide
 difficulty: intermediate
-tags: [solana, offline, instructor, checklist, teaching, preparation]
+tags: [solana, instructor, checklist, teaching, preparation]
 created: 2026-08-19
 updated: 2026-08-19
 ---
 
-# Instructor Checklist — Solana Off-line Course
+# Instructor Checklist — Solana Course
 
 This course is taught live, to people who cannot debug their own machines. Almost every failure mode is preventable with 30 minutes of preparation. This file is that 30 minutes.
 

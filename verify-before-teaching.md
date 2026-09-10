@@ -1,8 +1,8 @@
 ---
-title: "Solana Off-line Course — What to Verify Before Teaching"
+title: "Solana Course — What to Verify Before Teaching"
 type: guide
 difficulty: intermediate
-tags: [solana, offline, instructor, verification, checklist, preparation, maintenance]
+tags: [solana, instructor, verification, checklist, preparation, maintenance]
 created: 2026-08-19
 updated: 2026-08-20
 ---

@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 4: Solana Fundamentals — Wallets, Transactions, Tokens via MCP"
+title: "Solana Lesson 4: Solana Fundamentals — Wallets, Transactions, Tokens via MCP"
 type: lesson
 difficulty: intermediate
-tags: [solana, offline, blockchain, wallets, transactions, spl-tokens, devnet, rpc, mcp]
+tags: [solana, blockchain, wallets, transactions, spl-tokens, devnet, rpc, mcp]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 4
 ---
 
-# Solana Off-line Lesson 4: Solana Fundamentals — Wallets, Transactions, Tokens via MCP
+# Solana Lesson 4: Solana Fundamentals — Wallets, Transactions, Tokens via MCP
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~2 hours
 
 ## How This Lesson Works

@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 1: Setup — GitHub, Zed, DeepSeek, Phantom & Devnet"
+title: "Solana Lesson 1: Setup — GitHub, Zed, DeepSeek, Phantom & Devnet"
 type: lesson
 difficulty: beginner
-tags: [solana, offline, github, zed, deepseek, api, homebrew, context, agents-md, phantom, devnet, faucet, colosseum]
+tags: [solana, github, zed, deepseek, api, homebrew, context, agents-md, phantom, devnet, faucet, colosseum]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 1
 ---
 
-# Solana Off-line Lesson 1: Setup — GitHub, Zed, DeepSeek, Phantom & Devnet
+# Solana Lesson 1: Setup — GitHub, Zed, DeepSeek, Phantom & Devnet
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice
 **Duration:** ~3 hours — the heaviest setup day of the course; everything gets installed today
 
 ## How This Lesson Works

@@ -1,16 +1,16 @@
 ---
-title: "Solana Off-line Lesson 9: Final — Solana Mobile Grant Application & Project Defense"
+title: "Solana Lesson 9: Final — Solana Mobile Grant Application & Project Defense"
 type: lesson
 difficulty: advanced
-tags: [solana, offline, grants, solana-mobile, application, budget, milestones, presentation, defense, notebooklm]
+tags: [solana, grants, solana-mobile, application, budget, milestones, presentation, defense, notebooklm]
 created: 2026-08-19
 updated: 2026-08-19
 lesson_number: 9
 ---
 
-# Solana Off-line Lesson 9: Final — Solana Mobile Grant Application & Project Defense
+# Solana Lesson 9: Final — Solana Mobile Grant Application & Project Defense
 
-**Format:** Instructor-led classroom — screen sharing + hands-on practice + final presentations
+**Format:** Instructor-led, in the room or online — screen sharing + hands-on practice + final presentations
 **Duration:** ~3 hours for a group of 8-10 (first half ~90 min of writing; second half 5-7 min per student plus questions). **Larger group?** Split the defenses across two sessions, or cut each slot to 4 minutes — do the arithmetic before the lesson, not during it.
 
 ## How This Lesson Works

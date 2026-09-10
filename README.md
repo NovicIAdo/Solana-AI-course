@@ -1,22 +1,22 @@
 ---
-title: "Solana Off-line Course — README"
+title: "Solana Course — README"
 type: lesson
 difficulty: beginner
-tags: [solana, offline, colosseum, hackathon, mobile, grants, readme, course]
+tags: [solana, colosseum, hackathon, mobile, grants, readme, course]
 created: 2026-08-19
 updated: 2026-08-19
 ---
 
-# Solana Off-line Course — Build for the Colosseum Hackathon & Solana Mobile Grants
+# Solana Course — Build for the Colosseum Hackathon & Solana Mobile Grants
 
-**Instructor-led classroom course · 9 lessons · ~23 hours · no coding skills required**
+**Instructor-led course, in the room and online · 9 lessons · ~23 hours · no coding skills required**
 
 Detailed lessons live in this repository (`lesson-01` … `lesson-09`) plus [the course overview](overview.md). This file is only the short roadmap.
 
 | File | What it is |
 |---|---|
 | [overview.md](overview.md) | Full course overview — read this first |
-| [lesson-01.md](lesson-01.md) … [lesson-09.md](lesson-09.md) | The nine classroom lessons |
+| [lesson-01.md](lesson-01.md) … [lesson-09.md](lesson-09.md) | The nine lessons |
 | [instructor-checklist.md](instructor-checklist.md) | How to run the room, per-lesson prep, known rough edges |
 | [verify-before-teaching.md](verify-before-teaching.md) | Every external dependency, with verification dates |
 

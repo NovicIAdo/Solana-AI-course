@@ -1,15 +1,15 @@
 ---
-title: "Solana Off-line Course — Overview"
+title: "Solana Course — Overview"
 type: synthesis
 difficulty: beginner
-tags: [solana, offline, colosseum, hackathon, mobile, grants, overview, course]
+tags: [solana, colosseum, hackathon, mobile, grants, overview, course]
 created: 2026-08-19
 updated: 2026-08-19
 ---
 
-# AI School × Solana — Off-line Course Overview
+# AI School × Solana — Course Overview
 
-Nine instructor-led classroom lessons (~23 hours, 3 per week) where you build a real **Solana Android app** using AI, and get ready to compete in the **Colosseum fall hackathon** (September 28 — November 2, 2026) and apply for the **Solana Mobile Builder Grants** program. No coding skills required — you describe what you want, AI builds it. Each lesson is classroom-based: you watch the big screen, copy prompts from the chat, and repeat on your own laptop.
+Nine instructor-led lessons (~23 hours, 3 per week) where you build a real **Solana Android app** using AI, and get ready to compete in the **Colosseum fall hackathon** (September 28 — November 2, 2026) and apply for the **Solana Mobile Builder Grants** program. No coding skills required — you describe what you want, AI builds it. Each lesson is taught live — in the room at Noviciado, or online in the shared room: you watch the screen, copy prompts from the chat, and repeat on your own laptop.
 
 **Two things to know before you start.** First, class time teaches the stack; your product's own features are built on the **Product Build Track** — homework between lessons plus a supervised sprint in Lesson 7. Budget 3-5 hours a week outside class. Second, every date, prize and criterion below was accurate in **August 2026** and changes every season — Lessons 2, 8 and 9 all have you verify them against the live sites, and [verify-before-teaching](verify-before-teaching.md) lists every such claim, with the lesson it appears in, for the instructor to re-check before each cohort.
 
